@@ -1,12 +1,12 @@
-# Call-Break
+# Seep : The Card Game
 
 
 ## Introduction
-Call Break is a strategic trick-based card game played by four players with a standard deck of 52 playing cards.
+Seep is a strategic trick-based card game played by four players with a standard deck of 52 playing cards.
 The game is widely popular in Nepal and some places in India.
 The game is very similar to other trick-based game especially Spades.
 Although there is no source to prove this, the game should have been evolved from the classic card game Spades.
-In Call Break the term "hand" is used instead of trick, and "Call" is used instead of bid.
+In Seep the term "hand" is used instead of trick, and "Call" is used instead of bid.
 After each deal player have to make a "Call" or "bid" for the number of hands he/she can capture, and the objective is to capture at least that many hand in a round, and try to break other player i.e. stop them from getting their Call.
 After each round, points will be calculated and after five rounds of play each players five rounds points will be added as a total points and player with highest total point will win.
 
