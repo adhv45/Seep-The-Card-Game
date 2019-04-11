@@ -1,5 +1,5 @@
 {
-  "name": "Call-Break",
+  "name": "Seep : The Card Game",
   "version": "1.0.0",
   "description": "Card Game.",
   "main": "server.js",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/demoV/Call-Break.git"
+    "url": "git+https://github.com/adhv45/Seep-The-Card-Game.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/demoV/Call-Break/issues"
+    "url": "https://github.com/adhv45/Seep-The-Card-Game/issues"
   },
-  "homepage": "https://github.com/demoV/Call-Break#readme",
+  "homepage": "https://github.com/adhv45/Seep-The-Card-Game#readme",
   "devDependencies": {
     "chai": "^3.4.1",
     "mocha": "^6.1.2",
