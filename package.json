@@ -1,5 +1,5 @@
 {
-  "name": "Seep : The Card Game",
+  "name": "Seep-The-Card-Game",
   "version": "1.0.0",
   "description": "Card Game.",
   "main": "server.js",
